@@ -1,4 +1,6 @@
-# Hi there, I'm Danny Wu!
+# Hi there, I'm Danny Wu 
+
+<br />
 
 <a href="mailto: d246wu@gmail.com">
   <img height="32" src="https://img.icons8.com/wired/128/000000/email.png"/>

@@ -14,7 +14,7 @@
 <br />
 
 My name is Danny Wu and I am currently a second-year Software Engineering student at the University of Waterloo. 
-Besides programming, I enjoy meeting new people and listening to lofi.
+Besides programming, I enjoy meeting new people and listening to lo-fi.
 
 <br />
 

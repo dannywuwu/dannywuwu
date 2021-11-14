@@ -16,7 +16,7 @@
 <br />
 
 Currently a second-year Software Engineering student at the University of Waterloo. 
-Besides playing with software, I fancy meeting new people and enjoying the taste of red bean.
+Besides playing with software, I fancy meeting new people and savouring the taste of red bean.
 
 <br />
 

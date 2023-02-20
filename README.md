@@ -4,35 +4,48 @@
 
 > 🍞🍞🍞
 
-<br />
-
 I'm a fourth-year Software Engineering student at the University of Waterloo, interested in big systems and distributed computing.
 
 Besides playing with software, I fancy meeting new people and savouring the taste of red bean while simultaneously working out in a gym and reading manga, all at once.
 
 <br />
 
-**Sometimes I like coding using:**
+**I code with:**
 
-<code>
-  <img height="32" src="https://img.icons8.com/wired/128/000000/python.png"/>
-</code>
-<code>
-  <img height="32" src="https://img.icons8.com/wired/128/000000/java-coffee-cup-logo.png"/>
-</code>
-<code>
-  <img height="32" src="https://img.icons8.com/wired/128/000000/c-programming.png"/>
-</code>
-<code>
-  <img height="32" src="https://img.icons8.com/wired/128/000000/javascript.png"/>
-</code>
-  <img height="32" src="https://img.icons8.com/wired/128/000000/react.png"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/vim-1-458211.png"/>
-</code>
+<table>
+<tr>
+</tr>
+  <tr>
+    <th>Python</th>
+    <th>C++</th>
+    <th>Java</th>
+    <th>JavaScript</th>
+    <th>Vim</th>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">
+      <img height="32" src="https://img.icons8.com/wired/128/000000/python.png"/>
+    </td>
+    <td style="text-align:center; vertical-align:middle">
+      <img height="32" src="https://img.icons8.com/wired/128/000000/c-programming.png"/>
+    </td>
+    <td style="text-align:center; vertical-align:middle">
+      <img height="32" src="https://img.icons8.com/wired/128/000000/java-coffee-cup-logo.png"/>
+    </td>
+    <td style="text-align:center; vertical-align:middle">
+      <img height="32" src="https://img.icons8.com/wired/128/000000/javascript.png"/>
+    </td>
+    <td style="text-align:center; vertical-align:middle">
+      <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/vim-1-458211.png"/>
+    </td>
+  </tr>
+</table>
+
+or whatever I feel like using at the moment.
 
 <br />
 
-**You can find through:**
+**Learn more about me here:**
 
 <table>
   <tr>

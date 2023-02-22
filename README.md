@@ -60,12 +60,12 @@ or whatever I feel like using at the moment.
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle">
-      <a href="https://www.linkedin.com/in/wuda/">
+      <a href="https://www.linkedin.com/in/wuda/" target="_blank" rel="noreferrer noopener">
         <img height="32" alt="Danny Wu's LinkedIn" src="https://img.icons8.com/wired/128/000000/linkedin.png" />
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle">
-      <a href="https://dannywuwu.github.io/">
+      <a href="https://dannywuwu.github.io/" target="_blank" rel="noreferrer noopener">
         <img height="32" alt="Danny Wu's portfolio" src="https://img.icons8.com/wired/128/000000/resume.png" />
       </a>
     </td>

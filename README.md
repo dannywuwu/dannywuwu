@@ -4,7 +4,7 @@
 
 > 🍞🍞🍞
 
-I'm a fourth-year Software Engineering student at the University of Waterloo, interested in big systems and distributed computing.
+SE24 @ the University of Waterloo, interested in big systems and distributed computing.
 
 Besides playing with software, I fancy meeting new people and savouring the taste of red bean while simultaneously working out in a gym and reading manga, all at once.
 
